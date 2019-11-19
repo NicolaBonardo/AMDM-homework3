@@ -1,6 +1,7 @@
 # AMDM - Homework 3 - Group #36 (Nicola Bonardo)
 
 This repository contains the files for HW3:
+* README.md - this markdown itself
 * Main.ipynb - a Jupyter notebook with explanations about choices made
 * collector.py - the code to parse the html file with the list of movies and to crawl Wikipedia to download them
 * parser.py and parser_utils.py - the code to parse the downloaded html files, and to produce corresponding .tsv files
@@ -9,6 +10,8 @@ This repository contains the files for HW3:
 * main.py - the code to launch the search engine
 * utils.py - a helper code file, with common methods
 * exercise_4.py - the code for the theoretical exercise
+* images - a folder with some screenshots cited in the Jupyter notebook
+* usual gitignore and license files
 
 Please notice:
 * unfortunately customized search engine was not implemented, nor the addition info from infobox was retrieved, due to lack of time
