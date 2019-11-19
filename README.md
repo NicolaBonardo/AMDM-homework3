@@ -9,3 +9,8 @@ This repository contains the files for HW3:
 * main.py - the code to launch the search engine
 * utils.py - a helper code file, with common methods
 * exercise_4.py - the code for the theoretical exercise
+
+Please notice:
+* unfortunately customized search engine was not implemented, nor the addition info from infobox was retrieved, due to lack of time
+* I decided not to use libraries for vectorialization of documents, because I thought it was better from a learning point of view
+* My cosine similarity seems working in the opposite way, and the best matches are with lower cosine. I would like to analyze why, in the meantime I leave the top-k ranking in ascending order.
